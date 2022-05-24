@@ -1,0 +1,192 @@
+.bgcolor {
+  
+    background-color:white;
+  }
+
+  .icon {
+    
+
+    background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat;
+    background-size: 30px;
+    width: 1100px;
+    height: 30px;
+    padding-left: 30px;
+    border-radius: 5px;
+
+    }
+
+    .flex {
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+    }
+
+    .oturum{
+
+        background-color: white; font-style: bold;
+    }
+    
+    .kaydol{
+        background-color: black; color: white; font-style: bold;
+    }
+
+            
+    .dil {
+        padding-left: 15px;
+        padding-bottom: 20px;
+        background: url("../Udemy/dil.png") no-repeat;
+        background-size: 20px;
+    
+    }
+
+    .indirim{
+
+        position: center;
+        text-align: center;
+    }
+
+    .baslik{
+        padding-left: 280px;
+    }
+    
+    .kapsamli{
+        padding-left: 280px;
+        font-size: larger;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .flex1 {
+        padding-left: 280px;
+        display: flex;
+        justify-content:  flex-start   ;
+        align-items: center;
+        color: gray;
+        font-style: bold;
+        
+    }
+
+    .baslik1 {
+        
+        padding-left: 280px;
+  
+    }
+
+    .baslikyazisi {
+        
+        padding-left: 280px;
+        font-size: large;
+        font-family: 'Times New Roman', Times, serif;
+  
+    }
+
+    .JavaScript{
+        
+        margin-left: 280px;
+        align-items: center;
+        background-color: white; font-style: bold; font-family: 'Times New Roman', Times, serif;
+        width: 200px;
+        height: 30px;
+    }
+
+
+    .isim{
+        color: gray;
+    }
+
+    .java{
+
+        /* padding-left: 280px; */
+        padding: 30px 280px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+    }
+    .EnCokSatan{
+        background-color: green;
+    }
+    .PopulerveYeni{
+        background-color: palevioletred;
+    }
+
+    .arkaplan{
+        background-color: gainsboro;
+        margin-top: -10px;
+    }
+
+
+    .popular{
+
+        /* padding-left: 280px; */
+        padding: 30px 280px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+    }
+
+    
+
+    .yatay{
+
+        /* padding-left: 280px; */
+        justify-content: space-between;
+        align-items: center;
+        
+    }
+
+    .JavaScript10{
+        
+        margin-left: 280px;
+        align-items: center;
+        background-color: gainsboro; font-style: bold; font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .JavaScript11{
+        
+        align-items: center;
+        background-color: black; font-style: bold; font-family: 'Times New Roman', Times, serif; color: white;
+        height: 45px;
+
+    }
+
+    .people{
+
+        display: flex;
+        justify-content: space-between;
+        padding: 0px 550px;
+        align-items: center;
+    }
+
+    .footer {
+        position: relative ;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: black;
+        color: white;
+
+     }
+
+     
+    .footer1 {
+
+        display: flex;
+        justify-content: space-between;
+        padding: 20px 1200px 0px 50px;
+        align-items: center;
+
+     }
+     
+    .footer2 {
+        
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 50px 200px 50px 50px;
+
+
+     }
